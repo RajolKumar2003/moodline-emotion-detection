@@ -164,7 +164,3 @@ Rajol Kumar
 M.Sc. Mathematics and Scientific Computing  
 National Institute of Technology Warangal
 """
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(path)
