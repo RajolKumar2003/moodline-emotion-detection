@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """# Moodline — Emotion Detection using BiGRU
+## Moodline — Emotion Detection using BiGRU
 
 Moodline is a deep-learning based text emotion detection application that classifies a sentence into one of six emotion categories using a trained BiGRU model.
 
